@@ -1,0 +1,12 @@
+D:\Repos\ClientService\ClientService.Domain\bin\Debug\net8.0\ClientService.Domain.deps.json
+D:\Repos\ClientService\ClientService.Domain\bin\Debug\net8.0\ClientService.Domain.dll
+D:\Repos\ClientService\ClientService.Domain\bin\Debug\net8.0\ClientService.Domain.pdb
+D:\Repos\ClientService\ClientService.Domain\obj\Debug\net8.0\ClientService.Domain.csproj.AssemblyReference.cache
+D:\Repos\ClientService\ClientService.Domain\obj\Debug\net8.0\ClientService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ClientService\ClientService.Domain\obj\Debug\net8.0\ClientService.Domain.AssemblyInfoInputs.cache
+D:\Repos\ClientService\ClientService.Domain\obj\Debug\net8.0\ClientService.Domain.AssemblyInfo.cs
+D:\Repos\ClientService\ClientService.Domain\obj\Debug\net8.0\ClientService.Domain.csproj.CoreCompileInputs.cache
+D:\Repos\ClientService\ClientService.Domain\obj\Debug\net8.0\ClientService.Domain.dll
+D:\Repos\ClientService\ClientService.Domain\obj\Debug\net8.0\refint\ClientService.Domain.dll
+D:\Repos\ClientService\ClientService.Domain\obj\Debug\net8.0\ClientService.Domain.pdb
+D:\Repos\ClientService\ClientService.Domain\obj\Debug\net8.0\ref\ClientService.Domain.dll

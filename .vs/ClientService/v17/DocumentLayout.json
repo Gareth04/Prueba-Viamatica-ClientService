@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\ClientService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\operations\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\operations\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\payments\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\payments\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\paymentdetails\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\paymentdetails\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\paymentmethods\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\paymentmethods\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\cashs\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\cashs\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\operationtypes\\operationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\operationtypes\\operationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\clients\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\clients\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\services\\mbps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\services\\mbps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\persons\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\persons\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\persons\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\persons\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\services\\servicename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\services\\servicename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\shared\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\shared\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\shared\\tipomoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\shared\\tipomoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\users\\events\\usercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\users\\events\\usercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\users\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\users\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|d:\\repos\\clientservice\\clientservice.domain\\users\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE44EC-5B9A-4EF5-9AB1-B71440F7CFEA}|ClientService.Domain\\ClientService.Domain.csproj|solutionrelative:clientservice.domain\\users\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Payments\\Payment.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Payments\\Payment.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Payments\\Payment.cs",
+              "RelativeToolTip": "ClientService.Domain\\Payments\\Payment.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:52:51.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\PaymentDetails\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\PaymentDetails\\PaymentDetail.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\PaymentDetails\\PaymentDetail.cs",
+              "RelativeToolTip": "ClientService.Domain\\PaymentDetails\\PaymentDetail.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:51:39.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\PaymentMethods\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\PaymentMethods\\PaymentMethod.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\PaymentMethods\\PaymentMethod.cs",
+              "RelativeToolTip": "ClientService.Domain\\PaymentMethods\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:51:05.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Operations\\Operation.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Operations\\Operation.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Operations\\Operation.cs",
+              "RelativeToolTip": "ClientService.Domain\\Operations\\Operation.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:49:22.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cash.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Cashs\\Cash.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Cashs\\Cash.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Cashs\\Cash.cs",
+              "RelativeToolTip": "ClientService.Domain\\Cashs\\Cash.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:47:10.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperationType.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\OperationTypes\\OperationType.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\OperationTypes\\OperationType.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\OperationTypes\\OperationType.cs",
+              "RelativeToolTip": "ClientService.Domain\\OperationTypes\\OperationType.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:46:10.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Clients\\Client.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Clients\\Client.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Clients\\Client.cs",
+              "RelativeToolTip": "ClientService.Domain\\Clients\\Client.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:38:41.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Persons\\Person.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Persons\\Person.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Persons\\Person.cs",
+              "RelativeToolTip": "ClientService.Domain\\Persons\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:35:36.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Persons\\Address.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Persons\\Address.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Persons\\Address.cs",
+              "RelativeToolTip": "ClientService.Domain\\Persons\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:26:57.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mbps.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Services\\Mbps.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Services\\Mbps.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Services\\Mbps.cs",
+              "RelativeToolTip": "ClientService.Domain\\Services\\Mbps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:26:52.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Services\\Service.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Services\\Service.cs",
+              "RelativeToolTip": "ClientService.Domain\\Services\\Service.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:26:50.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceName.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Services\\ServiceName.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Services\\ServiceName.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Services\\ServiceName.cs",
+              "RelativeToolTip": "ClientService.Domain\\Services\\ServiceName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:26:48.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Moneda.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Shared\\Moneda.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Shared\\Moneda.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Shared\\Moneda.cs",
+              "RelativeToolTip": "ClientService.Domain\\Shared\\Moneda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:26:39.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TipoMoneda.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Shared\\TipoMoneda.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Shared\\TipoMoneda.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Shared\\TipoMoneda.cs",
+              "RelativeToolTip": "ClientService.Domain\\Shared\\TipoMoneda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:26:38.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserCreatedDomainEvent.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "RelativeToolTip": "ClientService.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:25:48.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Password.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Users\\Password.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Users\\Password.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Users\\Password.cs",
+              "RelativeToolTip": "ClientService.Domain\\Users\\Password.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:25:44.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Users\\User.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Users\\User.cs",
+              "RelativeToolTip": "ClientService.Domain\\Users\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:25:00.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Email.cs",
+              "DocumentMoniker": "D:\\Repos\\ClientService\\ClientService.Domain\\Users\\Email.cs",
+              "RelativeDocumentMoniker": "ClientService.Domain\\Users\\Email.cs",
+              "ToolTip": "D:\\Repos\\ClientService\\ClientService.Domain\\Users\\Email.cs",
+              "RelativeToolTip": "ClientService.Domain\\Users\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:24:46.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
